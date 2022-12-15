@@ -1,0 +1,15 @@
+[submodule "order-service-api"]
+	path = order-service-api
+	url = git@github.com:Chroax/order-service-api.git
+[submodule "notification-service-api"]
+	path = notification-service-api
+	url = git@github.com:Chroax/notification-service-api.git
+[submodule "film-service-api"]
+	path = film-service-api
+	url = git@github.com:Chroax/film-service-api.git
+[submodule "user-service-api"]
+	path = user-service-api
+	url = git@github.com:Chroax/user-service-api.git
+[submodule "gateway-api-mticket"]
+	path = gateway-api-mticket
+	url = git@github.com:Chroax/gateway-api-mticket.git
